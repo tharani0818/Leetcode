@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharani0818/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/tharani0818/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/tharani0818/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -20,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/tharani0818/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Hash Table
@@ -27,6 +29,7 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharani0818/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -54,6 +57,7 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -71,4 +75,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
