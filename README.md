@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/tharani0818/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0507-perfect-number](https://github.com/tharani0818/Leetcode/tree/master/0507-perfect-number) |
 ## Array
@@ -20,6 +21,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharani0818/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
@@ -40,4 +42,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
