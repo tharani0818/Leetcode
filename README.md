@@ -15,6 +15,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharani0818/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/tharani0818/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/tharani0818/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/tharani0818/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
@@ -66,6 +67,7 @@
 | [0191-number-of-1-bits](https://github.com/tharani0818/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/tharani0818/Leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/tharani0818/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/tharani0818/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
