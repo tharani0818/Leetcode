@@ -7,6 +7,7 @@
 | [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/tharani0818/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0507-perfect-number](https://github.com/tharani0818/Leetcode/tree/master/0507-perfect-number) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@
 | [0704-binary-search](https://github.com/tharani0818/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tharani0818/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
