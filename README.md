@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/tharani0818/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/tharani0818/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/tharani0818/Leetcode/tree/master/0507-perfect-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tharani0818/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -30,6 +31,7 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/tharani0818/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/tharani0818/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tharani0818/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
