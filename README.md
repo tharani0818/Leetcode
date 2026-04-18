@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/tharani0818/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/tharani0818/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0070-climbing-stairs](https://github.com/tharani0818/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/tharani0818/Leetcode/tree/main/0189-rotate-array/) | Medium |
