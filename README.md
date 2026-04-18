@@ -32,6 +32,7 @@
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/tharani0818/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0518-coin-change-ii](https://github.com/tharani0818/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0645-set-mismatch](https://github.com/tharani0818/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/tharani0818/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tharani0818/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/tharani0818/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -61,6 +62,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/tharani0818/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharani0818/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0645-set-mismatch](https://github.com/tharani0818/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/tharani0818/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/tharani0818/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -117,6 +119,7 @@
 | [0287-find-the-duplicate-number](https://github.com/tharani0818/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tharani0818/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0461-hamming-distance](https://github.com/tharani0818/Leetcode/tree/main/0461-hamming-distance/) | Easy |
+| [0645-set-mismatch](https://github.com/tharani0818/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/tharani0818/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tharani0818/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 ## Divide and Conquer
@@ -132,6 +135,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0645-set-mismatch](https://github.com/tharani0818/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tharani0818/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
