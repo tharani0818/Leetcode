@@ -24,6 +24,7 @@
 | [0134-gas-station](https://github.com/tharani0818/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0217-contains-duplicate](https://github.com/tharani0818/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/tharani0818/Leetcode/tree/main/0228-summary-ranges/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/tharani0818/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/tharani0818/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -43,6 +44,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/tharani0818/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tharani0818/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -100,6 +102,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tharani0818/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/tharani0818/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -111,6 +114,7 @@
 | [0029-divide-two-integers](https://github.com/tharani0818/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0190-reverse-bits](https://github.com/tharani0818/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/tharani0818/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/tharani0818/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tharani0818/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0461-hamming-distance](https://github.com/tharani0818/Leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/tharani0818/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
