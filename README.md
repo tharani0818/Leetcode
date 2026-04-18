@@ -7,6 +7,7 @@
 | [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/tharani0818/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tharani0818/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/tharani0818/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/tharani0818/Leetcode/tree/master/0507-perfect-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tharani0818/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -52,6 +53,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tharani0818/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0383-ransom-note](https://github.com/tharani0818/Leetcode/tree/main/0383-ransom-note/) | Easy |
+| [0412-fizz-buzz](https://github.com/tharani0818/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/tharani0818/Leetcode/tree/main/0520-detect-capital/) | Easy |
 | [1446-consecutive-characters](https://github.com/tharani0818/Leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tharani0818/Leetcode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
@@ -109,4 +111,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/tharani0818/Leetcode/tree/main/0383-ransom-note/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/tharani0818/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
