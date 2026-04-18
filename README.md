@@ -18,6 +18,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tharani0818/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/tharani0818/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0217-contains-duplicate](https://github.com/tharani0818/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0228-summary-ranges](https://github.com/tharani0818/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0322-coin-change](https://github.com/tharani0818/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
