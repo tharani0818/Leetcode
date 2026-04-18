@@ -11,6 +11,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tharani0818/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/tharani0818/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/tharani0818/Leetcode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tharani0818/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/tharani0818/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tharani0818/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -32,6 +33,7 @@
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/tharani0818/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0518-coin-change-ii](https://github.com/tharani0818/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/tharani0818/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/tharani0818/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/tharani0818/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tharani0818/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -135,6 +137,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/tharani0818/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/tharani0818/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tharani0818/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Breadth-First Search
