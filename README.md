@@ -12,6 +12,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/tharani0818/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharani0818/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -56,6 +57,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/tharani0818/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -87,4 +89,8 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/tharani0818/Leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
