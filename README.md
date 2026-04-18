@@ -77,6 +77,7 @@
 | [0383-ransom-note](https://github.com/tharani0818/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tharani0818/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/tharani0818/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/tharani0818/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0520-detect-capital](https://github.com/tharani0818/Leetcode/tree/main/0520-detect-capital/) | Easy |
 | [1446-consecutive-characters](https://github.com/tharani0818/Leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tharani0818/Leetcode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
