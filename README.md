@@ -37,6 +37,7 @@
 | [0645-set-mismatch](https://github.com/tharani0818/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/tharani0818/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tharani0818/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/tharani0818/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/tharani0818/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tharani0818/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tharani0818/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
@@ -96,6 +97,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tharani0818/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0322-coin-change](https://github.com/tharani0818/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/tharani0818/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/tharani0818/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
