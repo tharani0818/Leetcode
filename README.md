@@ -47,6 +47,7 @@
 | [0874-walking-robot-simulation](https://github.com/tharani0818/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tharani0818/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tharani0818/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/tharani0818/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/tharani0818/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -60,6 +61,7 @@
 | [0367-valid-perfect-square](https://github.com/tharani0818/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/tharani0818/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tharani0818/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/tharani0818/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tharani0818/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/tharani0818/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
