@@ -51,6 +51,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/tharani0818/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tharani0818/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/tharani0818/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/tharani0818/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -181,6 +182,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tharani0818/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/tharani0818/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/tharani0818/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
