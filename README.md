@@ -57,6 +57,7 @@
 | [2395-find-subarrays-with-equal-sum](https://github.com/tharani0818/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tharani0818/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tharani0818/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +184,7 @@
 | [0412-fizz-buzz](https://github.com/tharani0818/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/tharani0818/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tharani0818/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,4 +225,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tharani0818/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 <!---LeetCode Topics End-->
