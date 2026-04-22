@@ -31,6 +31,7 @@
 | [0152-maximum-product-subarray](https://github.com/tharani0818/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/tharani0818/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/tharani0818/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/tharani0818/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/tharani0818/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/tharani0818/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tharani0818/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -58,6 +59,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tharani0818/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/tharani0818/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -119,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tharani0818/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/tharani0818/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -212,4 +215,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/tharani0818/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tharani0818/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
