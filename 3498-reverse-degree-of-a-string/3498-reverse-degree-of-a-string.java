@@ -1,0 +1,12 @@
+class Solution {
+    public int reverseDegree(String s) {
+        int sum=0;
+        for(int i=1;i<=s.length();i++)
+        {
+            char c=s.charAt(i-1);
+            int diff=123-c;
+            sum+=diff*i;
+        }
+        return sum;
+    }
+}
