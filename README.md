@@ -238,4 +238,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tharani0818/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tharani0818/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tharani0818/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
