@@ -58,6 +58,7 @@
 | [2395-find-subarrays-with-equal-sum](https://github.com/tharani0818/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tharani0818/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -126,6 +127,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/tharani0818/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/tharani0818/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tharani0818/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
