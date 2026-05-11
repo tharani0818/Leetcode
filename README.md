@@ -18,6 +18,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/tharani0818/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tharani0818/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/tharani0818/Leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tharani0818/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
