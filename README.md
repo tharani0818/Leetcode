@@ -53,6 +53,7 @@
 | [0904-fruit-into-baskets](https://github.com/tharani0818/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tharani0818/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tharani0818/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1306-jump-game-iii](https://github.com/tharani0818/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tharani0818/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tharani0818/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -186,6 +187,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/tharani0818/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/tharani0818/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [1306-jump-game-iii](https://github.com/tharani0818/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/tharani0818/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1306-jump-game-iii](https://github.com/tharani0818/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
