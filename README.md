@@ -93,6 +93,7 @@
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/tharani0818/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tharani0818/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tharani0818/Leetcode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tharani0818/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/tharani0818/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
