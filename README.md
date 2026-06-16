@@ -27,7 +27,6 @@
 | [0001-two-sum](https://github.com/tharani0818/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0042-trapping-rain-water](https://github.com/tharani0818/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/tharani0818/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/tharani0818/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharani0818/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tharani0818/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tharani0818/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -42,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/tharani0818/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/tharani0818/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tharani0818/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/tharani0818/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/tharani0818/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tharani0818/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -74,7 +74,6 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/tharani0818/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharani0818/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tharani0818/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/tharani0818/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -263,6 +262,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tharani0818/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/tharani0818/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/tharani0818/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/tharani0818/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Segment Tree
@@ -282,6 +282,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tharani0818/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/tharani0818/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
