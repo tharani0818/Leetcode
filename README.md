@@ -123,6 +123,7 @@
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tharani0818/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/tharani0818/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/tharani0818/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +217,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/tharani0818/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/tharani0818/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/tharani0818/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
