@@ -48,6 +48,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharani0818/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/tharani0818/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/tharani0818/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/tharani0818/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tharani0818/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/tharani0818/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -278,6 +279,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tharani0818/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/tharani0818/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/tharani0818/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,4 +293,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tharani0818/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/tharani0818/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
