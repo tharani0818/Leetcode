@@ -16,6 +16,7 @@
 | [0412-fizz-buzz](https://github.com/tharani0818/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/tharani0818/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tharani0818/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/tharani0818/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/tharani0818/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tharani0818/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/tharani0818/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
