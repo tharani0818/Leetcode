@@ -246,11 +246,13 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tharani0818/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tharani0818/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/tharani0818/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tharani0818/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tharani0818/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/tharani0818/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
