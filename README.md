@@ -66,6 +66,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/tharani0818/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1306-jump-game-iii](https://github.com/tharani0818/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/tharani0818/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/tharani0818/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/tharani0818/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tharani0818/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -217,6 +218,7 @@
 | [0645-set-mismatch](https://github.com/tharani0818/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tharani0818/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/tharani0818/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/tharani0818/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/tharani0818/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -246,6 +248,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tharani0818/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/tharani0818/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/tharani0818/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tharani0818/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -327,4 +330,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/tharani0818/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/tharani0818/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
