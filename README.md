@@ -110,6 +110,7 @@
 | [0645-set-mismatch](https://github.com/tharani0818/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/tharani0818/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tharani0818/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/tharani0818/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/tharani0818/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/tharani0818/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -132,6 +133,7 @@
 | [0709-to-lower-case](https://github.com/tharani0818/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/tharani0818/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/tharani0818/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/tharani0818/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1446-consecutive-characters](https://github.com/tharani0818/Leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tharani0818/Leetcode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -231,6 +233,7 @@
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/tharani0818/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tharani0818/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/tharani0818/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
