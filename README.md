@@ -169,6 +169,7 @@
 | [1143-longest-common-subsequence](https://github.com/tharani0818/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tharani0818/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/tharani0818/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +304,7 @@
 | [0303-range-sum-query-immutable](https://github.com/tharani0818/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/tharani0818/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/tharani0818/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/tharani0818/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
