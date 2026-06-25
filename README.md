@@ -83,6 +83,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tharani0818/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tharani0818/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tharani0818/Leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [2395-find-subarrays-with-equal-sum](https://github.com/tharani0818/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tharani0818/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tharani0818/Leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@
 | [0053-maximum-subarray](https://github.com/tharani0818/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/tharani0818/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/tharani0818/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +250,7 @@
 | [0383-ransom-note](https://github.com/tharani0818/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tharani0818/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/tharani0818/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tharani0818/Leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -309,10 +313,12 @@
 | [0560-subarray-sum-equals-k](https://github.com/tharani0818/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/tharani0818/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/tharani0818/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,4 +358,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/tharani0818/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
