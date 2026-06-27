@@ -35,6 +35,7 @@
 | [0016-3sum-closest](https://github.com/tharani0818/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tharani0818/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/tharani0818/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/tharani0818/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharani0818/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tharani0818/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tharani0818/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -104,6 +105,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tharani0818/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tharani0818/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/tharani0818/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/tharani0818/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/tharani0818/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -305,6 +307,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tharani0818/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/tharani0818/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
