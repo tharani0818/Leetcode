@@ -73,6 +73,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/tharani0818/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/tharani0818/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/tharani0818/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharani0818/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tharani0818/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tharani0818/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -240,6 +241,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/tharani0818/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/tharani0818/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/tharani0818/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharani0818/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +274,7 @@
 | [0134-gas-station](https://github.com/tharani0818/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/tharani0818/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharani0818/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tharani0818/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
