@@ -83,6 +83,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/tharani0818/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/tharani0818/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tharani0818/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/tharani0818/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tharani0818/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -124,6 +125,7 @@
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/tharani0818/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/tharani0818/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tharani0818/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tharani0818/Leetcode/tree/main/3866-first-unique-even-element/) | Easy |
@@ -254,6 +256,7 @@
 | [0383-ransom-note](https://github.com/tharani0818/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tharani0818/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/tharani0818/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/tharani0818/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tharani0818/Leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Simulation
