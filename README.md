@@ -149,6 +149,7 @@
 | [0520-detect-capital](https://github.com/tharani0818/Leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/tharani0818/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/tharani0818/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharani0818/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/tharani0818/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tharani0818/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1446-consecutive-characters](https://github.com/tharani0818/Leetcode/tree/main/1446-consecutive-characters/) | Easy |
@@ -285,6 +286,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tharani0818/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/tharani0818/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/tharani0818/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharani0818/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/tharani0818/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharani0818/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tharani0818/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -350,6 +352,7 @@
 | [0155-min-stack](https://github.com/tharani0818/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/tharani0818/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/tharani0818/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharani0818/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
