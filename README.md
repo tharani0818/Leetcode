@@ -85,6 +85,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/tharani0818/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/tharani0818/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tharani0818/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2942-find-words-containing-character](https://github.com/tharani0818/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tharani0818/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tharani0818/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -156,6 +157,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharani0818/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2942-find-words-containing-character](https://github.com/tharani0818/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tharani0818/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/tharani0818/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/tharani0818/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
