@@ -151,6 +151,7 @@
 | [1143-longest-common-subsequence](https://github.com/tharani0818/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tharani0818/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1446-consecutive-characters](https://github.com/tharani0818/Leetcode/tree/main/1446-consecutive-characters/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/tharani0818/Leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tharani0818/Leetcode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharani0818/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -260,6 +261,7 @@
 | [0383-ransom-note](https://github.com/tharani0818/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/tharani0818/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/tharani0818/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/tharani0818/Leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tharani0818/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3866-first-unique-even-element](https://github.com/tharani0818/Leetcode/tree/main/3866-first-unique-even-element/) | Easy |
