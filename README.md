@@ -125,6 +125,7 @@
 | [0904-fruit-into-baskets](https://github.com/tharani0818/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tharani0818/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/tharani0818/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tharani0818/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/tharani0818/Leetcode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/tharani0818/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -152,6 +153,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharani0818/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/tharani0818/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/tharani0818/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tharani0818/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1446-consecutive-characters](https://github.com/tharani0818/Leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/tharani0818/Leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tharani0818/Leetcode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
@@ -195,6 +197,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tharani0818/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tharani0818/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tharani0818/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tharani0818/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tharani0818/Leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
