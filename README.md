@@ -401,4 +401,5 @@
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/tharani0818/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/tharani0818/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/tharani0818/Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 <!---LeetCode Topics End-->
