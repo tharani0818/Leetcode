@@ -88,6 +88,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tharani0818/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2942-find-words-containing-character](https://github.com/tharani0818/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tharani0818/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/tharani0818/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tharani0818/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/tharani0818/Leetcode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tharani0818/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -263,6 +264,7 @@
 | [0322-coin-change](https://github.com/tharani0818/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/tharani0818/Leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [1306-jump-game-iii](https://github.com/tharani0818/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/tharani0818/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +335,7 @@
 | [0073-set-matrix-zeroes](https://github.com/tharani0818/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/tharani0818/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/tharani0818/Leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/tharani0818/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,4 +411,16 @@
 | [0182-duplicate-emails](https://github.com/tharani0818/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/tharani0818/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/tharani0818/Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/tharani0818/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/tharani0818/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/tharani0818/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
