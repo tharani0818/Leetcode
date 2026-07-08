@@ -25,6 +25,7 @@
 | [2544-alternating-digit-sum](https://github.com/tharani0818/Leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tharani0818/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tharani0818/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tharani0818/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/tharani0818/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
