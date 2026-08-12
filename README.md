@@ -11,6 +11,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/tharani0818/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/tharani0818/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/tharani0818/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0233-number-of-digit-one](https://github.com/tharani0818/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0263-ugly-number](https://github.com/tharani0818/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tharani0818/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tharani0818/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -192,6 +193,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tharani0818/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/tharani0818/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/tharani0818/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0233-number-of-digit-one](https://github.com/tharani0818/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0322-coin-change](https://github.com/tharani0818/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/tharani0818/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/tharani0818/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -320,6 +322,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tharani0818/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tharani0818/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0233-number-of-digit-one](https://github.com/tharani0818/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
