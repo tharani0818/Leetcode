@@ -175,6 +175,7 @@
 | [1980-find-unique-binary-string](https://github.com/tharani0818/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/tharani0818/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tharani0818/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3330-find-the-original-typed-string-i](https://github.com/tharani0818/Leetcode/tree/main/3330-find-the-original-typed-string-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/tharani0818/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/tharani0818/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/tharani0818/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
